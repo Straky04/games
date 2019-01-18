@@ -1,0 +1,10 @@
+GAME LAUNCHER PRÉSENTATION
+
+GameLauncher by $traker est un logiciel qui vous permet
+de télécharger ou de mettre à jour ses jeux et logiciels
+comme un "launcher"
+
+Ubne interface graphique simple vous permet d'utiliser le launcher
+en toute simplicité et de vous offrir une meilleur expérience de jeu
+
+BON JEU À TOUS !!!
